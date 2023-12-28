@@ -1,0 +1,302 @@
+[
+  {
+    "prova": "COREME/SES/GO",
+    "banca": "Instituto Verbena",
+    "ano": 2023,
+    "tipo": "multipla_escolha",
+    "alternativas": [
+      "Manchas em vinho do Porto e assimetria dos membros inferiores.",
+      "Edema da perna com varicosidades aumentadas e úlceras de estase.",
+      "Pulsos distais palpáveis com pulsos femorais impalpáveis.",
+      "Aneurisma da coxa proximal e perna distal."
+    ],
+    "questao": "Na anomalia vascular conhecida como artéria ciática persistente completa, que achados característicos ao exame físico vascular podem ser encontrados?",
+    "resposta_multipla": 2
+  },
+  {
+    "prova": "COREME/SES/GO",
+    "banca": "Instituto Verbena",
+    "ano": 2023,
+    "tipo": "multipla_escolha",
+    "texto_base": "Paciente do sexo feminino, 30 anos, é encaminhada ao pronto-socorro com quadro de dor e inchaço na perna esquerda há 3 dias. Paciente nega comorbidades associadas e uso de quaisquer tipos de medicamentos de uso contínuo. Ao exame físico na admissão, o médico nota um edema importante de todo membro inferior esquerdo, desde a raiz da coxa e com empastamento da panturrilha. Diante do quadro apresentado um ecoddopler venoso mostrou sinais de trombose venosa profunda aguda ilíaco-femoral esquerda.",
+    "alternativas": [
+      "a síndrome de May-Turner.",
+      "a trombose de aorta.",
+      "a doença de Buerger.",
+      "a doença de Takayasu."
+    ],
+    "questao": "Considerando todo o quadro clínico podemos considerar como hipótese diagnóstica",
+    "resposta_multipla": 0
+  },
+  {
+    "prova": "COREME/SES/GO",
+    "banca": "Instituto Verbena",
+    "ano": 2023,
+    "tipo": "multipla_escolha",
+    "alternativas": [
+      "105g de aminoácidos, 370g de dextrose, 47g de lipídios.",
+      "70g de aminoácido, 320g de dextrose, 30g de lipídios",
+      "56g de aminoácidos, 320g de dextrose, 140g de lipídios.",
+      "140g de aminoácidos, 420g de dextrose, 140g de lipídios"
+    ],
+    "questao": "O uso da nutrição parenteral é vital para pacientes com disfunção completa ou parcial do trato gastrointestinal. Usando o exemplo de uma pessoa de 70 kg, sem alterações metabólicas importantes, qual seria a melhor composição para uma nutrição parenteral total formulada com lipídeos (solução 3 em 1)?",
+    "resposta_multipla": 0
+  },
+  {
+    "prova": "COREME/SES/GO",
+    "banca": "Instituto Verbena",
+    "ano": 2023,
+    "tipo": "multipla_escolha",
+    "alternativas": [
+      "Perda involuntária maior que 5% do peso nos últimos 6 meses.",
+      "Perda de sangue esperada maior que 500 mL durante a cirurgia.",
+      "Concentração de Transferrina menor que 350 mg/dL.",
+      "Previsão de que o paciente não poderá satisfazer os requisitos calóricos dentro de 3 a 5 dias."
+    ],
+    "questao": "Os pacientes cirúrgicos com alterações nutricionais apresentam aumento de morbidade e mortalidade. O suporte nutricional deve ser considerado para todos os pacientes com risco nutricional grave. Qual deve ser o critério para iniciar suporte nutricional perioperatório?",
+    "resposta_multipla": 1
+  },
+  {
+    "prova": "Residência SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Todo profissional médico deve ter algum conhecimento a  respeito de atendimento ao paciente politraumatizado e  medicina de emergência.    No que se refere a essa informação e aos conhecimentos  médicos correlatos, julgue os itens a seguir.",
+    "questao": "Na sequência ABCDE de atendimento, a letra A refere-se a  garantir a via aérea pérvia e a estabilização da coluna  cervical; a letra B refere-se a garantir a ventilação; e a letra  C, a ressuscitação volêmica, o controle de hemorragia e os cuidados com hipotermia.",
+    "resposta_bool": false
+  },
+  {
+    "prova": "Residência SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Todo profissional médico deve ter algum conhecimento a  respeito de atendimento ao paciente politraumatizado e  medicina de emergência.    No que se refere a essa informação e aos conhecimentos  médicos correlatos, julgue os itens a seguir.",
+    "questao": "A \"hora de ouro\" refere-se ao momento após o evento traumático, no qual o atendimento correto e precoce aumenta, de maneira significativa, a sobrevida do paciente.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Todo profissional médico deve ter algum conhecimento a  respeito de atendimento ao paciente politraumatizado e  medicina de emergência.    No que se refere a essa informação e aos conhecimentos  médicos correlatos, julgue os itens a seguir.",
+    "questao": "Em um atendimento de emergência, pode-se dispensar os princípios da beneficência e da não maleficência.",
+    "resposta_bool": false
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Uma criança de 1 ano e 4 meses de idade, com histórico de  aleitamento materno exclusivo até os 6 meses, é levada a  atendimento pela mãe que referiu tosse, febre, hiperemia  ocular e aparecimento de “manchas”  brancas em mucosa  oral, com posterior aparecimento de “manchas” vermelhas no  corpo. Ao exame, apresenta temperatura axilar de 38 °C e  exantema  maculopapular avermelhado, de progressão craniocauldal. Com base no caso clínico e nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "Trata-se de uma doença de notificação compulsória imediata.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Uma criança de 1 ano e 4 meses de idade, com histórico de aleitamento materno exclusivo até os 6 meses, é levada a atendimento pela mãe que referiu tosse, febre, hiperemia ocular e aparecimento de “manchas”  brancas em mucosa oral, com posterior aparecimento de “manchas” vermelhas no corpo. Ao exame, apresenta temperatura axilar de 38 °C e exantema maculopapular avermelhado, de progressão craniocauldal. Com base no caso clínico e nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "A vacina que contempla essa doença é realizada aos 12, aos 15 e aos 24 meses de vida.",
+    "resposta_bool": false
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Uma criança de 1 ano e 4 meses de idade, com histórico de aleitamento materno exclusivo até os 6 meses, é levada a atendimento pela mãe que referiu tosse, febre, hiperemia ocular e aparecimento de “manchas”  brancas em mucosa oral, com posterior aparecimento de “manchas” vermelhas no corpo. Ao exame, apresenta temperatura axilar de 38 °C e exantema maculopapular avermelhado, de progressão craniocauldal. Com base no caso clínico e nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "A presença de pequenos pontos brancos em mucosa oral antecedendo o exantema é um sinal patognomônico dessa doença.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Uma criança de 1 ano e 4 meses de idade, com histórico de aleitamento materno exclusivo até os 6 meses, é levada a atendimento pela mãe que referiu tosse, febre, hiperemia ocular e aparecimento de “manchas”  brancas em mucosa oral, com posterior aparecimento de “manchas” vermelhas no corpo. Ao exame, apresenta temperatura axilar de 38 °C e exantema maculopapular avermelhado, de progressão craniocauldal. Com base no caso clínico e nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "A respeito do aleitamento materno, a recomendação do Ministério da Saúde é de amamentar, se possível, até os 2 anos de idade ou mais, oferecendo aleitamento materno exclusivo até os 6 meses de vida.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Uma criança de 1 ano e 4 meses de idade, com histórico de aleitamento materno exclusivo até os 6 meses, é levada a atendimento pela mãe que referiu tosse, febre, hiperemia ocular e aparecimento de “manchas”  brancas em mucosa oral, com posterior aparecimento de “manchas” vermelhas no corpo. Ao exame, apresenta temperatura axilar de 38 °C e exantema maculopapular avermelhado, de progressão craniocauldal. Com base no caso clínico e nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "A transmissão dessa doença dá-se por meio de aerossol e gotículas de secreção respiratória.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Uma paciente de 35 anos de idade, G1, idade gestacional de  19 semanas, realizando pré-natal regular na unidade básica  de saúde (UBS), procura a emergência obstétrica por pressão  arterial aferida adequadamente, durante a consulta de   pré-natal no dia anterior, de 150 mmHg x 92 mmHg. À  chegada, a paciente queixa-se de cefaleia e dor epigástrica  leve.  Verificam-se  os  seguintes  sinais  vitais:   PA = 140 mmHg x 90 mmHg; FC = 102 bpm; FR =18 irpm;  e SatO2 = 98%.",
+    "questao": "É possível considerar que a paciente possui diagnótisco de hipertensão arterial crônica.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Uma paciente de 35 anos de idade, G1, idade gestacional de  19 semanas, realizando pré-natal regular na unidade básica  de saúde (UBS), procura a emergência obstétrica por pressão  arterial aferida adequadamente, durante a consulta de   pré-natal no dia anterior, de 150 mmHg x 92 mmHg. À  chegada, a paciente queixa-se de cefaleia e dor epigástrica  leve.  Verificam-se  os  seguintes  sinais  vitais:   PA = 140 mmHg x 90 mmHg; FC = 102 bpm; FR =18 irpm;  e SatO2 = 98%.",
+    "questao": "Deve ser realizado rastreamento para pré-eclâmpsia em vista da presença de sinais premonitórios: cefaleia e dor epigástrica leve.",
+    "resposta_bool": false
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Uma paciente de 35 anos de idade, G1, idade gestacional de  19 semanas, realizando pré-natal regular na unidade básica  de saúde (UBS), procura a emergência obstétrica por pressão  arterial aferida adequadamente, durante a consulta de   pré-natal no dia anterior, de 150 mmHg x 92 mmHg. À  chegada, a paciente queixa-se de cefaleia e dor epigástrica  leve.  Verificam-se  os  seguintes  sinais  vitais:   PA = 140 mmHg x 90 mmHg; FC = 102 bpm; FR =18 irpm;  e SatO2 = 98%.",
+    "questao": "A identificação de um desvio de eixo à esquerda no eletrocardiograma (ECG) dessa paciente pode ser um achado fisiológico.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Um paciente de 12 anos de idade foi encaminhado a consulta por apresentar febre há dois dias, recebendo tratamento com amoxicilina para infecção na garganta, conforme relatou um familiar. Após 96 horas do uso do medicamento, o paciente evoluiu com exantema maculopapular, pruriginoso e dor abdominal de forte intensidade. Manifesta adenomegalias occiptais bilaterais, pequenas, fibroelásticas e móveis. Auscultas cardíaca e respiratória sem alterações. Ao exame físico abdominal, verifica-se hepatoesplenomegalia. Constatam-se FC = 85 bpm; FR = 17 irpm; e SatO2 = 98%. Descartou-se infecção por Coronavírus.",
+    "questao": "Alguns tipos de linfomas poder ter associação com o agente etiológico causador dessa comorbidade.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Um paciente de 12 anos de idade foi encaminhado a consulta por apresentar febre há dois dias, recebendo tratamento com amoxicilina para infecção na garganta, conforme relatou um familiar. Após 96 horas do uso do medicamento, o paciente evoluiu com exantema maculopapular, pruriginoso e dor abdominal de forte intensidade. Manifesta adenomegalias occiptais bilaterais, pequenas, fibroelásticas e móveis. Auscultas cardíaca e respiratória sem alterações. Ao exame físico abdominal, verifica-se hepatoesplenomegalia. Constatam-se FC = 85 bpm; FR = 17 irpm; e SatO2 = 98%. Descartou-se infecção por Coronavírus.",
+    "questao": "Hepatomegalia não faz parte da apresentação típica da doença.",
+    "resposta_bool": false
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Um paciente de 12 anos de idade foi encaminhado a consulta por apresentar febre há dois dias, recebendo tratamento com amoxicilina para infecção na garganta, conforme relatou um familiar. Após 96 horas do uso do medicamento, o paciente evoluiu com exantema maculopapular, pruriginoso e dor abdominal de forte intensidade. Manifesta adenomegalias occiptais bilaterais, pequenas, fibroelásticas e móveis. Auscultas cardíaca e respiratória sem alterações. Ao exame físico abdominal, verifica-se hepatoesplenomegalia. Constatam-se FC = 85 bpm; FR = 17 irpm; e SatO2 = 98%. Descartou-se infecção por Coronavírus.",
+    "questao": "Indica-se manter o uso do antibiótico.",
+    "resposta_bool": false
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Um paciente de 12 anos de idade foi encaminhado a consulta por apresentar febre há dois dias, recebendo tratamento com amoxicilina para infecção na garganta, conforme relatou um familiar. Após 96 horas do uso do medicamento, o paciente evoluiu com exantema maculopapular, pruriginoso e dor abdominal de forte intensidade. Manifesta adenomegalias occiptais bilaterais, pequenas, fibroelásticas e móveis. Auscultas cardíaca e respiratória sem alterações. Ao exame físico abdominal, verifica-se hepatoesplenomegalia. Constatam-se FC = 85 bpm; FR = 17 irpm; e SatO2 = 98%. Descartou-se infecção por Coronavírus.",
+    "questao": "Deve-se vigiar o sensório do paciente, pois a doença pode ter complicações neurológicas, como encefalite.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Um paciente de 12 anos de idade foi encaminhado a consulta por apresentar febre há dois dias, recebendo tratamento com amoxicilina para infecção na garganta, conforme relatou um familiar. Após 96 horas do uso do medicamento, o paciente evoluiu com exantema maculopapular, pruriginoso e dor abdominal de forte intensidade. Manifesta adenomegalias occiptais bilaterais, pequenas, fibroelásticas e móveis. Auscultas cardíaca e respiratória sem alterações. Ao exame físico abdominal, verifica-se hepatoesplenomegalia. Constatam-se FC = 85 bpm; FR = 17 irpm; e SatO2 = 98%. Descartou-se infecção por Coronavírus.",
+    "questao": "Para evitar possíveis traumas, indica-se repouso.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Um paciente de 12 anos de idade foi encaminhado a consulta por apresentar febre há dois dias, recebendo tratamento com amoxicilina para infecção na garganta, conforme relatou um familiar. Após 96 horas do uso do medicamento, o paciente evoluiu com exantema maculopapular, pruriginoso e dor abdominal de forte intensidade. Manifesta adenomegalias occiptais bilaterais, pequenas, fibroelásticas e móveis. Auscultas cardíaca e respiratória sem alterações. Ao exame físico abdominal, verifica-se hepatoesplenomegalia. Constatam-se FC = 85 bpm; FR = 17 irpm; e SatO2 = 98%. Descartou-se infecção por Coronavírus.",
+    "questao": "Ainda que a ausculta cardíaca esteja inicialmente normal, o paciente pode apresentar miocardite como complicação cardiovascular da doença.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Um menino de 6 anos de idade, foi encaminhado ao consultório com relato de aumento do volume testicular progressivo há cerca de um ano. Ao exame físico, constataram-se FC = 85 bpm; FR = 18 ipm; e SatO2 = 98%, com abaulamento inguinal à esquerda, que piora às manobras de esforço, com identificação de tumefação que desce através do canal inguinal.  Com base nesse caso clínico e nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "Trata-se de patologia benigna cujo tratamento exige uso  de antibióticos, sendo vancomicina uma opção segura.",
+    "resposta_bool": false
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Um menino de 6 anos de idade, foi encaminhado ao consultório com relato de aumento do volume testicular progressivo há cerca de um ano. Ao exame físico, constataram-se FC = 85 bpm; FR = 18 ipm; e SatO2 = 98%, com abaulamento inguinal à esquerda, que piora às manobras de esforço, com identificação de tumefação que desce através do canal inguinal.  Com base nesse caso clínico e nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "A origem do defeito, nesse caso, está lateral aos vasos epigástricos inferiores.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Um menino de 6 anos de idade, foi encaminhado ao consultório com relato de aumento do volume testicular progressivo há cerca de um ano. Ao exame físico, constataram-se FC = 85 bpm; FR = 18 ipm; e SatO2 = 98%, com abaulamento inguinal à esquerda, que piora às manobras de esforço, com identificação de tumefação que desce através do canal inguinal. Com base nesse caso clínico e nos conhecimentos médicos, julgue os itens a seguir.",
+    "questao": "O diagnóstico necessita da realização de exame de imagem, sendo a TC contrastada uma boa opção.",
+    "resposta_bool": false
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Um menino de 6 anos de idade, foi encaminhado ao consultório com relato de aumento do volume testicular progressivo há cerca de um ano. Ao exame físico, constataram-se FC = 85 bpm; FR = 18 ipm; e SatO2 = 98%, com abaulamento inguinal à esquerda, que piora às manobras de esforço, com identificação de tumefação que desce através do canal inguinal. Com base nesse caso clínico e nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "Esse paciente, segundo Nyhus, apresenta classificação 3C da sua patologia.",
+    "resposta_bool": false
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Um menino de 6 anos de idade, foi encaminhado ao consultório com relato de aumento do volume testicular progressivo há cerca de um ano. Ao exame físico, constataram-se FC = 85 bpm; FR = 18 ipm; e SatO2 = 98%, com abaulamento inguinal à esquerda, que piora às manobras de esforço, com identificação de tumefação que desce através do canal inguinal. Com base nesse caso clínico e nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "Após a instituição do tratamento, espera-se aumento dos níveis séricos de IL-6.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Um menino de 6 anos de idade, foi encaminhado ao consultório com relato de aumento do volume testicular progressivo há cerca de um ano. Ao exame físico, constataram-se FC = 85 bpm; FR = 18 ipm; e SatO2 = 98%, com abaulamento inguinal à esquerda, que piora às manobras de esforço, com identificação de tumefação que desce através do canal inguinal. Com base nesse caso clínico e nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "No caso de pacientes do sexo feminino, a maior parte dos casos de defeitos ocorre através do anel femoral.",
+    "resposta_bool": false
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Uma paciente de 35 anos de idade apresenta mancha de cor marrom-enegrecida de 1,2 cm, assimétrica, com bordas irregulares e coloração heterogênea em coxa direita. Não se observou adenomegalia no exame físico ou de imagem. Acerca desse caso clínico e com base nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "A conduta inicial mais apropriada é uma biópsia excisional da lesão.",
+    "resposta_bool": true
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Uma paciente de 35 anos de idade apresenta mancha de cor marrom-enegrecida de 1,2 cm, assimétrica, com bordas irregulares e coloração heterogênea em coxa direita. Não se observou adenomegalia no exame físico ou de imagem. Acerca desse caso clínico e com base nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "Caso a biópsia evidencie índice de Breslow de até 1,2 mm, dispensa-se a realização de pesquisa de linfonodo sentinela, pois não há evidência de adenomegalia.",
+    "resposta_bool": false
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Uma paciente de 35 anos de idade apresenta mancha de cor marrom-enegrecida de 1,2 cm, assimétrica, com bordas irregulares e coloração heterogênea em coxa direita. Não se observou adenomegalia no exame físico ou de imagem. Acerca desse caso clínico e com base nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "Não há nenhuma evidência de que neoplasias como essa aumentem o risco de trombose venosa profunda.",
+    "resposta_bool": false
+  },
+  {
+    "prova": "Residência Médica SES-DF",
+    "banca": "IADES",
+    "ano": 2021,
+    "tipo": "verdadeiro_falso",
+    "texto_base": "Uma paciente de 35 anos de idade apresenta mancha de cor marrom-enegrecida de 1,2 cm, assimétrica, com bordas irregulares e coloração heterogênea em coxa direita. Não se observou adenomegalia no exame físico ou de imagem. Acerca desse caso clínico e com base nos conhecimentos médicos correlatos, julgue os itens a seguir.",
+    "questao": "A ocorrência de tromboembolismo pulmonar mostrará hipoxemia com gradiente alvéoloarterial aumentado.",
+    "resposta_bool": true
+  }
+]
